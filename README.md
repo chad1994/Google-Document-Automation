@@ -23,4 +23,4 @@
 ## Preview
 | ![1](./readmeImage/1.png) | ![2](./readmeImage/2.png) |
 |:---:|:---:|
-| ![3](./readme_image/3.png) | ![4](./readme_image/4.png) |
+| ![3](./readmeImage/3.png) | ![4](./readmeImage/4.png) |
